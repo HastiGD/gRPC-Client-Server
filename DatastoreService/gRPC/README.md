@@ -11,7 +11,7 @@ gRPC
 ├── Dockerfile
 ├── pom.xml
 ├── README.md
-├── src
+├── src/main
 │   ├── java/neu/edu
 │   └── resources  
 │
@@ -27,4 +27,9 @@ The easiest way to launch the server is with Docker. Once you have installed Doc
 `gRPC % ./deploy.sh`
 
 You should see the following output to Terminal
-![Terminal output](../images/server-docker-output.png)
+![Terminal output](images/server-docker-output.png)
+
+The deploy.sh script has created a network and a Docker image for the server. Next it runs the server in a container. Now you are ready to launch the the client. Skip ahead to the README in the  DatastoreClient subdirectory to use the service.
+
+#### Running the Server locally from the Terminal
+
