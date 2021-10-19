@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb3430e6-6e63-42c6-bc1a-ec2e57b9193a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zgnlUzc3ZG33ohdYsFXWe0LexI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DatastoreClientGrpc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.neu.Client.DatastoreClientGrpc" />
+      <module name="DatastoreClient" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 9091" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DatastoreClientGrpc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb3430e6-6e63-42c6-bc1a-ec2e57b9193a" name="Default Changelist" comment="" />
+      <created>1634578749786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634578749786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634665456852">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="369" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/1440.-55.1920.993@0.25.1440.875" timestamp="1634665456852" />
+    <state x="2207" y="259" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634606896280" />
+    <state x="2497" y="367" key="EnvironmentVariablesDialog" timestamp="1634589127600">
+      <screen x="1440" y="-55" width="1920" height="993" />
+    </state>
+    <state x="2497" y="367" key="EnvironmentVariablesDialog/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634589127600" />
+    <state width="1111" height="553" key="GridCell.Tab.0.bottom" timestamp="1634669452181">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1111" height="553" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-55.1920.993@0.25.1440.875" timestamp="1634669452181" />
+    <state width="1278" height="327" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634606546602" />
+    <state width="1111" height="553" key="GridCell.Tab.0.center" timestamp="1634669452179">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1111" height="553" key="GridCell.Tab.0.center/0.25.1440.875/1440.-55.1920.993@0.25.1440.875" timestamp="1634669452179" />
+    <state width="1278" height="327" key="GridCell.Tab.0.center/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634606546601" />
+    <state width="1111" height="553" key="GridCell.Tab.0.left" timestamp="1634669452178">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1111" height="553" key="GridCell.Tab.0.left/0.25.1440.875/1440.-55.1920.993@0.25.1440.875" timestamp="1634669452178" />
+    <state width="1278" height="327" key="GridCell.Tab.0.left/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634606546600" />
+    <state width="1111" height="553" key="GridCell.Tab.0.right" timestamp="1634669452180">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1111" height="553" key="GridCell.Tab.0.right/0.25.1440.875/1440.-55.1920.993@0.25.1440.875" timestamp="1634669452180" />
+    <state width="1278" height="327" key="GridCell.Tab.0.right/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634606546601" />
+    <state width="1126" height="329" key="GridCell.Tab.1.bottom" timestamp="1634590133940">
+      <screen x="1440" y="-55" width="1920" height="993" />
+    </state>
+    <state width="1126" height="329" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634590133940" />
+    <state width="1126" height="329" key="GridCell.Tab.1.center" timestamp="1634590133939">
+      <screen x="1440" y="-55" width="1920" height="993" />
+    </state>
+    <state width="1126" height="329" key="GridCell.Tab.1.center/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634590133939" />
+    <state width="1126" height="329" key="GridCell.Tab.1.left" timestamp="1634590133939">
+      <screen x="1440" y="-55" width="1920" height="993" />
+    </state>
+    <state width="1126" height="329" key="GridCell.Tab.1.left/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634590133939" />
+    <state width="1126" height="329" key="GridCell.Tab.1.right" timestamp="1634590133940">
+      <screen x="1440" y="-55" width="1920" height="993" />
+    </state>
+    <state width="1126" height="329" key="GridCell.Tab.1.right/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634590133940" />
+    <state x="2478" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1634604894726">
+      <screen x="1440" y="-55" width="1920" height="993" />
+    </state>
+    <state x="2478" y="272" key="com.intellij.ide.util.TipDialog/0.25.1440.875/1440.-55.1920.993@1440.-55.1920.993" timestamp="1634604894726" />
+  </component>
+</project>
