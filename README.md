@@ -29,18 +29,20 @@ gRPC-Client-Server
 #### Requirements
 - Java SDK
 - [Maven](http://maven.apache.org/download.html)
-- Docker (optional)
+- [Docker](https://docs.docker.com/get-docker/) (optional)
 
 #### Installation
 1. Download the repository to your desktop and unzip it
 2. Open two Terminal session and navigate to the DatastoreClient directory in one, and to the DatastoreService/gRPC directory in the other like below:
 
 `Desktop % cd gRPC-Client-Server-master/DatastoreClient`
+
 `Desktop % cd gRPC-Client-Server-master/DatastoreService/gRPC`
 
 3. In each Terminal session install the  package with Maven by issuing the following command
 
 `DatastoreClient % mvn install clean`
+
 `gRPC % mvn install clean`
 
 That condludes the steps for installing the packages, continue on to the README's in each subdirectory,  DatastoreClient and DatastoreService/gRPC to run the service.
