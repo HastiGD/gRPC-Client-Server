@@ -1,24 +1,25 @@
 # DatastoreService
 ## A Client-Server App for storing single <key, value> pairs via Remote Procedural Calls implemented with gRPC
 ### Author: Hasti Gheibi Dehnashi
-Scalable Distributed Systems - Northeastern University
 
 #### Project Structure
 ```bash
 gRPC-Client-Server
-|
+│
 ├── README.md
 ├── DatastoreClient
 │   ├── DatastoreClient.iml
 │   ├── Dockerfile
 │   ├── pom.xml
+│   ├── run_client.sh
 │   └── src/main
 │       ├── java/neu/edu
-|       └── resources
+│       └── resources
 │   
-|
+│
 └── DatastoreServer/gRPC
     ├── DatastoreService.iml
+    ├── deploy.sh
     ├── Dockerfile
     ├── pom.xml
     └── src/main
@@ -26,20 +27,20 @@ gRPC-Client-Server
         └── resources
 ```
 #### Requirements
-- Maven
-- JDK 1.8+
+- Java SDK
+- [Maven](http://maven.apache.org/download.html)
+- Docker (optional)
 
 #### Installation
 1. Download the repository to your desktop and unzip it
-2. Open two Terminal session and navigate to the DatastoreClient directory in one, and to the DatastoreService/gRPC directory in the other
+2. Open two Terminal session and navigate to the DatastoreClient directory in one, and to the DatastoreService/gRPC directory in the other like below:
 
-`cd DatastoreClient`
-`cd DatastoreService/gRPC`
+`Desktop % cd gRPC-Client-Server-master/DatastoreClient`
+`Desktop % cd gRPC-Client-Server-master/DatastoreService/gRPC`
 
 3. In each Terminal session install the  package with Maven by issuing the following command
 
-`mvn install`
+`DatastoreClient % mvn install clean`
+`gRPC % mvn install clean`
 
-That condludes the steps for installing the packages, continue on to the README in each subdirectory to run the service
-
-
+That condludes the steps for installing the packages, continue on to the README's in each subdirectory,  DatastoreClient and DatastoreService/gRPC to run the service.
