@@ -27,7 +27,7 @@ The easiest way to launch the client is with Docker. Once you have installed Doc
 `DatastoreClient % ./run_client.sh`
 
 You should see the following output to Terminal
-![Terminal output](images/client-docker-output.png)
+![Terminal output](/images/client-docker-output.png)
 
 The run_client.sh script has created a Docker image for the client. Next it runs the client in a container. If you completed the server build correctly in the previous README, the client connects to the server container and performs some test operations on the datastore. You are now ready to communicate with the server.
 
