@@ -4,6 +4,7 @@ import edu.neu.Grpc.DatastoreGrpc;
 import edu.neu.Grpc.DatastoreOuterClass;
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
+import io.grpc.StatusRuntimeException;
 
 import java.io.DataInputStream;
 import java.io.IOException;
@@ -148,6 +149,9 @@ public class DatastoreClientGrpc {
                 log.warning("Failed to read input");
             } catch (ArrayIndexOutOfBoundsException e) {
                 log.warning("Missing input");
+            } catch (StatusRuntimeException e) {
+                log.warning("Connection timed out, system exiting");
+                System.exit(0);
             }
         }
         // Close client
